@@ -1,6 +1,6 @@
 ---
 title: "Jira Isn't a Website Anymore — It's a Multi-Faceted Knowledge Engine"
-date: 2026-04-21T12:00:00+00:00
+date: 2026-04-21T08:00:00+00:00
 categories:
   - software-engineering
 tags:
