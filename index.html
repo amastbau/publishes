@@ -1,8 +1,13 @@
 ---
-layout: home
+layout: archive
 title: "Articles"
 header:
   overlay_color: "#1a1a2e"
   overlay_filter: "0.5"
 excerpt: "Writing on software engineering, AI-driven tooling, and infrastructure."
+author_profile: true
 ---
+
+{% for post in site.posts %}
+  {% include archive-single.html %}
+{% endfor %}
