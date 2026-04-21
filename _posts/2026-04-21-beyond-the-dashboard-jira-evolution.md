@@ -5,7 +5,10 @@ categories:
   - software-engineering
 tags:
   - jira
+  - atlassian
   - ai
+  - rovo
+  - mcp
   - developer-experience
   - knowledge-management
 excerpt: "Jira's survival doesn't depend on UI refinements — it depends on becoming a headless, AI-driven knowledge engine accessible from CLI, IDE, and conversational interfaces."

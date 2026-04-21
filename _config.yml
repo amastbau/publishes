@@ -32,6 +32,7 @@ defaults:
       read_time: true
       show_date: true
       share: true
+      pagination: false
   - scope:
       path: ""
     values:

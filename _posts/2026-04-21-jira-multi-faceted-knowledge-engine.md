@@ -7,8 +7,10 @@ tags:
   - jira
   - atlassian
   - ai
-  - developer-experience
   - rovo
+  - mcp
+  - llm
+  - developer-experience
   - knowledge-management
 excerpt: "Jira is undergoing a fundamental metamorphosis. To survive the AI era, it's moving from being Application-First to Infrastructure-First."
 header:
