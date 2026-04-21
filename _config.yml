@@ -16,7 +16,7 @@ permalink: /:categories/:title/
 
 author:
   name: "Amos Mastbaum"
-  bio: "Software Engineer"
+  bio: "Senior Engineer @ Red Hat"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
